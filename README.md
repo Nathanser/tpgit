@@ -1,5 +1,6 @@
 # tpgit
 ##Ceci est un TP Git et Python
+<<<<<<< HEAD
 
 A
 B
@@ -8,3 +9,7 @@ F
 G
 C
 
+=======
+A
+B
+>>>>>>> 2794227 (B)
